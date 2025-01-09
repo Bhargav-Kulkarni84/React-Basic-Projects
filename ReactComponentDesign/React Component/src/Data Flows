@@ -1,0 +1,6 @@
+
+A parent component defines a function
+The function is passed as a prop to a child component
+The child component invoked the prop function
+The parent function is called, usually setting new state
+The parent component is re-rendered along with its child
